@@ -45,7 +45,7 @@ export default function LandingPage() {
           <HeroBillboardScroll
             background={{ variant: "plain" }}
             title="Bayrampaşa'nın En Samimi Kahve Durağı"
-            description="Bayrampaşa'nın en sıcak, en samimi kafe deneyimi. Ev yapımı lezzetler, artisan kahveler ve huzur dolu bir atmosfer sizi bekliyor."
+            description="Bayrampaşa'nın en sıcak, en samimi kafe deneyimi. Ev yapımı lezzetler, artisan kahveler ve huzur dolu bir atmosfer sizi bekliyor. İletişim: 0546 722 1401"
             buttons={[{ text: "Menüyü Keşfet", href: "#menu" }]}
             imageSrc="http://img.b2bpic.net/free-photo/young-woman-drinking-tea-cafe_1303-25721.jpg"
           />
@@ -123,7 +123,7 @@ export default function LandingPage() {
             textboxLayout="default"
             useInvertedBackground={false}
             names={[
-              "Google Reviews Top Rated",              "Coffee Artisan Guild",              "Bayrampaşa Cafe Community",              "Home-Made Standards Verified",              "Artisan Coffee Certified",              "Local Business Excellence",              "Best of Bayrampaşa 2024"
+              "Google Reviews Top Rated", "Coffee Artisan Guild", "Bayrampaşa Cafe Community", "Home-Made Standards Verified", "Artisan Coffee Certified", "Local Business Excellence", "Best of Bayrampaşa 2024"
             ]}
             title="Sertifikalı Güler Yüz"
             description="Mahallemizin en sevilen kahve durağı."
@@ -136,7 +136,7 @@ export default function LandingPage() {
             background={{ variant: "plain" }}
             tag="İletişim"
             title="Bize Ulaşın"
-            description="Yıldırım, Rize Sk. No:1 D:A, Bayrampaşa/İstanbul adresinde sizi bekliyoruz. Rezervasyon ve sorularınız için bizimle iletişime geçin."
+            description="Yıldırım, Rize Sk. No:1 D:A, Bayrampaşa/İstanbul. Tel: 0546 722 1401"
           />
         </div>
 

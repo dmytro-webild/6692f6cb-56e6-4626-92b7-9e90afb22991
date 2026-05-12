@@ -44,7 +44,7 @@ export default function LandingPage() {
         <div id="hero" data-section="hero">
           <HeroBillboardScroll
             background={{ variant: "plain" }}
-            title="Evinizdeki Kahve Huzuru"
+            title="Bayrampaşa'nın En Samimi Kahve Durağı"
             description="Bayrampaşa'nın en sıcak, en samimi kafe deneyimi. Ev yapımı lezzetler, artisan kahveler ve huzur dolu bir atmosfer sizi bekliyor."
             buttons={[{ text: "Menüyü Keşfet", href: "#menu" }]}
             imageSrc="http://img.b2bpic.net/free-photo/young-woman-drinking-tea-cafe_1303-25721.jpg"
